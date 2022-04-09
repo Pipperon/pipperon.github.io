@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://pipperon.ltd/2022/02/03/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://pipperon.ltd/archives/b8f4bd70.html</loc>
     
     <lastmod>2022-04-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://pipperon.ltd/link/index.html</loc>
+    <loc>https://pipperon.ltd/link/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://pipperon.ltd/categories/index.html</loc>
+    <loc>https://pipperon.ltd/categories/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://pipperon.ltd/tags/index.html</loc>
+    <loc>https://pipperon.ltd/tags/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>http://pipperon.ltd/</loc>
+    <loc>https://pipperon.ltd/</loc>
     <lastmod>2022-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
