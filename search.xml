@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hexo博客搭建</title>
+      <link href="/2022/02/03/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <url>/2022/02/03/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
+      
+        <content type="html"><![CDATA[<p>Hexo是一个快速、简洁且高效的博客框架，它能够将Markdown格式的文档渲染成漂亮的网页，这样我们就可以在很短的时间内迅速的创建出网站的静态内容，而Markdown格式对程序员来说相信并不陌生。要想使用Hexo来搭建自己的博客，我实在想不出有什么教程比官方文档更好，强烈建议大家阅读官方文档来了解Hexo，下面我只做一个简要的使用说明。</p><h2 id="使用Hexo搭建自己的博客"><a href="#使用Hexo搭建自己的博客" class="headerlink" title="使用Hexo搭建自己的博客"></a>使用Hexo搭建自己的博客</h2><h3 id="安装nodejs环境-用以下命令检测"><a href="#安装nodejs环境-用以下命令检测" class="headerlink" title="安装nodejs环境(用以下命令检测)"></a>安装nodejs环境(用以下命令检测)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ node --version</span><br><span class="line">$ npm --version</span><br></pre></td></tr></table></figure><p>More info: <a href="http://nodejs.cn/">nodejs下载链接</a></p><h3 id="安装git环境-用以下命令检测"><a href="#安装git环境-用以下命令检测" class="headerlink" title="安装git环境(用以下命令检测)"></a>安装git环境(用以下命令检测)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git --version</span><br></pre></td></tr></table></figure><p>More info: <a href="https://git-scm.com/downloads">git下载链接</a></p><h3 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br></pre></td></tr></table></figure><h3 id="初始化博客"><a href="#初始化博客" class="headerlink" title="初始化博客"></a>初始化博客</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init blog</span><br></pre></td></tr></table></figure><h3 id="安装依赖项"><a href="#安装依赖项" class="headerlink" title="安装依赖项"></a>安装依赖项</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install</span><br></pre></td></tr></table></figure><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><h3 id="在本地生成博客"><a href="#在本地生成博客" class="headerlink" title="在本地生成博客"></a>在本地生成博客</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>More info: <a href="http://localhost:4000/">点击测试链接</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
